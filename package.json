@@ -1,0 +1,12 @@
+{
+  "name": "sjpi-24-backend",
+  "version": "1.0.0",
+  "description": "Web app with backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
